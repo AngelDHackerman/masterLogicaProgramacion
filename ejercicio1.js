@@ -1,4 +1,4 @@
-let tablaMultiplicar = 7;
+let tablaMultiplicar = 723;
 
 for (let index = 1; index <= 10; index++) {
   let resultado = tablaMultiplicar * index;
