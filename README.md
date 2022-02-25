@@ -23,7 +23,7 @@ tabaMultiplicar(5);
 10 x 5 = 50
 
 
-# Ejercicio 2: 
+# Ejercicio 2 "palindromo": 
 
 Dada una cadena de texto, comprobar si es un palindromo o no. 
 Los palindromos son palabras que se leen igual aun estando invertidas.
@@ -36,3 +36,18 @@ No tener en cuenta espacios o simbolos raros.
 
 palindromo(otto) // is true.
 palindromo(angel) // is false.
+
+
+# Ejercicio 3: 
+
+<!-- 
+  Enunciado: 
+
+  Dada una palabra, busrcala en una frase y delver cuantas veces aparece en ella.
+  La frase y la palabra deben ser parametros de una funcion.
+
+  Ejemplos: 
+  Coincidencias("Hola soy una palabra en una frase, PALABRA.", "palabra") // Devuelve: 2.
+  coincidencias("soy la frase", "victor") // Devuelve: 0.
+
+ -->

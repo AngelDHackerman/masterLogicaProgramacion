@@ -29,6 +29,13 @@ palindromo('oscar');
 console.groupEnd();
 
 
+
+
+
+
+
+
+
 console.group('Mis pruebas:');
 
     // ? Separamos y lo hacemos string (.split(''))
