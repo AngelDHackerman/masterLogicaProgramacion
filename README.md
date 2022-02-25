@@ -50,4 +50,12 @@ palindromo(angel) // is false.
   Coincidencias("Hola soy una palabra en una frase, PALABRA.", "palabra") // Devuelve: 2.
   coincidencias("soy la frase", "victor") // Devuelve: 0.
 
+  Como hacerlo: 
+  -Funcion con 2 parametros, "frase" y "busqueda"
+  -Poner string en minusculas y limpiarlo. 
+  -comprobar si la busqueda esta incluida en la frase.
+  -Crear un array de palabras de la frase. 
+  -Mapear esas palabras y hacer un contador de cada una.
+  -Devolver el contador de la busqueda.
+
  -->
