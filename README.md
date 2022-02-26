@@ -7,6 +7,12 @@ Repasamos sobre las clases y sus herencias y tambien sobre las promesas.
 Debemos tener npm y nodejs instalados en nuestro sistema.
 
 #       Enunciados de los ejercicios
+
+* En español por fines didacticos, en la vida real usaremos nombres en ingles.
+* Test en cada ejercicio, lo veremos al final del proyecto para agilizar el proceso.
+* ejercicios genericos, puedes usar cualquier lenguaje.
+* Siempre mostrar el resultado en la consola / terminal.
+* Hay muchas soluciones validas para un mismo ejercicio.*
 # ejecicio 1: 
 * Dado un numero, devolver su tabla de multiplicar completa.
 
@@ -56,3 +62,29 @@ Como hacerlo:
 * Crear un array de palabras de la frase. 
 * Mapear esas palabras y hacer un contador de cada una.
 * Devolver el contador de la busqueda.
+
+# Ejercicio 4: 
+
+Enunciado: 
+
+* Dada una cadena de texto, darle la vuelta e invertir el orden de sus caracteres, sin usar metodos propios del lenguaje, solo estructuras de control.
+
+Ejemplos: 
+
+* invertir('hola') // Devuelve: 'aloh'
+* invertir('victor') // Devuelve: 'rotciv'
+* invertir('robles') // Devuelve: 'selbor'
+
+Como hacerlo: 
+
+- Funcion con parametro "texto"
+- Crear una variable para guardar la cadena invertida
+- Bucle que recorra el string letra a letra y guarde los caracteres en la variable.
+
+
+
+
+
+
+
+
