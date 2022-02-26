@@ -7,7 +7,20 @@ const buscar = (frase, busqueda) => {
   if (fraseLowerCase.includes(busqueda)) {
 
     let palabras = fraseLowerCase.split(" "); // ? divide el string en un array de palabras que esten divididas por " ".
-    console.log(palabras)
+    let mapa = {};
+
+    for (let palabra of palabras) { // * for of consigue el VALOR dentro del los indices del array.
+      
+      if(mapa[palabra]) { // * Esto comprueba si la palabra ya esta en el mapa que creamos.
+        mapa[palabra]++; // * Si la palabra YA existe le suma 1 al valor que ya tiene (por defecto es 1)
+      } else { 
+        mapa[palabra] = 1; // * Si la palabra aun no existe en el mapa con esto la agregamos y le damos valor de 1.
+      }
+    }
+    console.log(palabras);
+    console.log(mapa);
+
+    resultado = mapa[busqueda];
 
   } else { 
     resultado = 0; 
@@ -16,4 +29,4 @@ const buscar = (frase, busqueda) => {
   return resultado;
 }
 
-buscar(miFrase, "palabras")
+console.log(`La palabra que buscamos aparece:`, buscar(miFrase, 'talvez'), `veves`);
