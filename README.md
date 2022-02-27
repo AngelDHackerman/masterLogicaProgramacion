@@ -13,7 +13,7 @@ Debemos tener npm y nodejs instalados en nuestro sistema.
 * ejercicios genericos, puedes usar cualquier lenguaje.
 * Siempre mostrar el resultado en la consola / terminal.
 * Hay muchas soluciones validas para un mismo ejercicio.*
-# ejecicio 1: 
+# ejecicio 1 'Tabla de multiplicar': 
 * Dado un numero, devolver su tabla de multiplicar completa.
 
   Ejemplos: 
@@ -44,7 +44,7 @@ palindromo(otto) // is true.
 palindromo(angel) // is false.
 
 
-# Ejercicio 3: 
+# Ejercicio 3, 'Buscar la palabra': 
 
 Enunciado: 
 
@@ -63,7 +63,7 @@ Como hacerlo:
 * Mapear esas palabras y hacer un contador de cada una.
 * Devolver el contador de la busqueda.
 
-# Ejercicio 4: 
+# Ejercicio 4, 'Invertir la palabra': 
 
 Enunciado: 
 
@@ -81,7 +81,7 @@ Como hacerlo:
 - Crear una variable para guardar la cadena invertida
 - Bucle que recorra el string letra a letra y guarde los caracteres en la variable.
 
-# Ejercicio 5: 
+# Ejercicio 5, 'Tanto por ciento': 
 
 * Enunciado: 
 
@@ -91,7 +91,7 @@ Como hacerlo:
 
 - tantoPorCiento(20, 100)     // Devuelve: 20.
 - tantoPorCiento(43, 897)     // Devuelve: 385.71
-- tantoPorCiento(5, 10)     // Devuelve: 50.
+- tantoPorCiento(50, 10)     // Devuelve: 5.
 
 * Como hacerlo: 
 
