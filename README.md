@@ -81,6 +81,23 @@ Como hacerlo:
 - Crear una variable para guardar la cadena invertida
 - Bucle que recorra el string letra a letra y guarde los caracteres en la variable.
 
+# Ejercicio 5: 
+
+* Enunciado: 
+
+- Cuanto es el x por ciento de x numero? 
+
+* Ejemplos: 
+
+- tantoPorCiento(20, 100)     // Devuelve: 20.
+- tantoPorCiento(43, 897)     // Devuelve: 385.71
+- tantoPorCiento(5, 10)     // Devuelve: 50.
+
+* Como hacerlo: 
+
+- Funcion con parametros 'porcentarje' y  'numero'. 
+- Crear una variable para la operacion del porcentaje.
+- Devolver string que responda a la pregunta el enunciado. 
 
 
 
