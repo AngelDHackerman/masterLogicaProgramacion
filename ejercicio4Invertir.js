@@ -1,19 +1,11 @@
 const invertir = (texto) => { 
   console.log(texto)
-  let arrayDeTexto = [];
-  let reverso = [];
+  let invertirTexto = '';
 
-  for (let i = 0; i < texto.length; i++ ) { 
-    arrayDeTexto.push(texto.charAt(i))
+  for(let i = texto.length -1; i >= 0; i--) { 
+    invertirTexto += texto[i];
   }
-  console.log(arrayDeTexto);
-
-  for (let i = arrayDeTexto.length - 1; i >= 0; i--) { 
-    reverso.push(arrayDeTexto[i]);
-  }
-  console.log(reverso);
-
-  return reverso.join().replace(/[,]/gi, '')
+  return invertirTexto;
 }
 
-console.log(invertir('mariposa'));
+console.log(invertir('SoyElMejorProgramador'));
