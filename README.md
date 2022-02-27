@@ -99,6 +99,19 @@ Como hacerlo:
 - Crear una variable para la operacion del porcentaje.
 - Devolver string que responda a la pregunta el enunciado. 
 
+# Ejercicio 6, 'Dibujar con asteriscos':
+
+* Enunciado: Dibujar un cuadro hueco con asteriscos. 
+
+* Ejemplos: 
+
+cuadrado(4);
+
+// Devuelve: 
+  <!-- **** -->
+  <!-- *  * -->
+  <!-- *  * -->
+  <!-- **** -->
 
 
 
