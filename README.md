@@ -129,5 +129,12 @@ cuadrado(4);
 
 - Entre 1 y 10 // Devuleve 4, (3, 5, 7, 9);
 
+* Como hacerlo: 
+- Funcion que reciba los 2 numeros.
+- Bucle de nuemro1  al numero2
+- Condicion, si el resto es distinto a cero, es impar.
+- Aumentar en uno el contador. 
+- Devolver contador.
+
 
 
