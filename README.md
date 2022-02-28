@@ -147,4 +147,9 @@ cuadrado(4);
 
 * Como hacerlo: 
 
-
+- Funcion que reciba el numero. 
+- Convertir numero en string.
+- Crear un array por cada letra.
+- Darle la vuelta.
+- Unir el array en un string. 
+- Convertir el string en un entero.
