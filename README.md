@@ -108,11 +108,17 @@ Como hacerlo:
 cuadrado(4);
 
 // Devuelve: 
- **** 
- *  *
- *  * 
- **** 
+  4 * en el tope 
+  4 * en los horizontales 
+  4 * en el fondo
 
+* Como hacerlo: 
+
+- Funcion para crear el lado de arriba y abajo del cuadrado 
+- funcion que haga los lados y el hueco del cuadrado.
+- Bucle de 0 al tamaño del lado menos 2 para equilibrar con el lado de arriba y abajo.
+- Ir concatenando en una variable cada linea del cuadrado. 
+- Mostrar el cuadrado en la funcion principal.
 
 
 
