@@ -120,7 +120,7 @@ cuadrado(4);
 - Ir concatenando en una variable cada linea del cuadrado. 
 - Mostrar el cuadrado en la funcion principal.
 
-# Ejercicio 7 
+# Ejercicio 7, contar los impares entre 2 numeros.
 
 * Enunciado: 
   Dados dos numero, devolver cuantos numeros impares hay entre ellos. 
@@ -136,5 +136,15 @@ cuadrado(4);
 - Aumentar en uno el contador. 
 - Devolver contador.
 
+# Ejercicio 8
+
+* Enunciado: 
+  Dado un numero entero, inviertelo y devuelve de nuevo el entero.
+
+* Ejemplos: 
+
+- invertirNumero(67) // Devuelve: 76;
+
+* Como hacerlo: 
 
 
