@@ -120,7 +120,14 @@ cuadrado(4);
 - Ir concatenando en una variable cada linea del cuadrado. 
 - Mostrar el cuadrado en la funcion principal.
 
+# Ejercicio 7 
 
+* Enunciado: 
+  Dados dos numero, devolver cuantos numeros impares hay entre ellos. 
+
+* Ejemplos: 
+
+- Entre 1 y 10 // Devuleve 4, (3, 5, 7, 9);
 
 
 
