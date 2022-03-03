@@ -22,3 +22,10 @@ const invertirNumero = (numero) => {
 
 invertirNumero(-32);
 console.groupEnd();
+
+
+console.group('Respuesta del profe:');
+
+
+
+console.groupEnd();
